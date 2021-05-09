@@ -1,7 +1,7 @@
 # UFOs
 
 # Overview of the Project
-The main purpose of this project is to create a webpage that can give a detail analysis of UFO sightings. For this, the project develops a webpage with dynamic table that allows filter for multiple criteria at the same time.
+The main purpose of this project is to create an interactive webpage that allows cutomers of the page to have a detail analysis of UFO sightings. For this, the project develops a webpage with dynamic table that allows filter for multiple criteria at the same time.
 
 ![Top](https://user-images.githubusercontent.com/78656720/117557753-50839f00-b044-11eb-8bb3-2253620734c8.png)
 
